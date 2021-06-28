@@ -1,2 +1,2 @@
 # paper-launcher
-https://github.com/Hiten415/paper-launcher
+https://hiten415.github.io/paper-launcher/
